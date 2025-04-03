@@ -1,0 +1,9 @@
+nltk
+pandas
+matplotlib
+nltk
+scikit-learn
+seaborn
+gensim
+ipykernel
+Spacy
